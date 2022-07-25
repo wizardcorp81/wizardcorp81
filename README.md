@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wizardcorp81
+- 👋 Hi, I’m Alvaro
 - 👀 I’m interested in python code
 - 🌱 I’m currently learning python code
 - 💞️ I’m looking to collaborate on python code
